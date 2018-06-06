@@ -1,0 +1,11 @@
+Machine name: DESKTOP-B49MHF2
+Machine Id: {09DBAE78-B70C-479C-92A3-0CB5D25A6130}
+Operating System: Windows 10 Home 64-bit (10.0, Build 17134) (17134.rs4_release.180410-1804)
+Language: Japanese (Regional Setting: Japanese)
+System Manufacturer: FUJITSU
+System Model: FMVNA4NE
+BIOS: Version 1.04 (type: BIOS)
+Processor: Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz (4 CPUs), ~2.5GHz
+Memory: 4096MB RAM
+Available OS Memory: 4008MB RAM
+Page File: 2760MB used, 2654MB available
